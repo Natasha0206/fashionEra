@@ -68,7 +68,7 @@
     border: 2px solid grey;
 }
 .background{
-    background: rgba(0, 0, 0,0.7) url('../nuts.jpg');
+    background: rgba(0, 0, 0,0.7) url('nuts.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
